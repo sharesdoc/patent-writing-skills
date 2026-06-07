@@ -1,4 +1,4 @@
-# patent-writing v2.0
+# patent-writing v1.0
 
 > Claude Code Skill for Chinese Patent Technical Disclosure Writing（中国发明专利技术交底书撰写助手）
 
